@@ -1,0 +1,84 @@
+h1{
+    color: aliceblue;
+}
+.con{
+    width: 80%;
+}
+.mag{
+    margin-left: 20%;
+}
+.hm{
+    padding: 40px;
+}
+
+.cel1:hover{
+    border-radius: 36px;
+background: linear-gradient(145deg, #2b334a, #333d58);
+box-shadow:  50px 50px 0px #2e374f,
+             -50px -50px 0px #323b55;
+}
+.cel2:hover{
+    border-radius: 36px;
+background: linear-gradient(45deg, #505869, #5f697d);
+box-shadow:  50px -50px 0px #555e70,
+             -50px 50px 0px #5d667a;
+}
+.cel2{
+    border-radius: 40px;
+background: linear-gradient(225deg, #505869, #5f697d);
+box-shadow:  -23px 23px 29px #2a2e37,
+             23px -23px 29px #8896b3;
+}
+.cel3:hover{
+    border-radius: 36px;
+    background: linear-gradient(45deg, #505869, #5f697d);
+    box-shadow:  50px -50px 0px #555e70,
+                 -50px 50px 0px #5d667a;
+}
+.cel3{
+    border-radius: 40px;
+background: linear-gradient(45deg, #505869, #5f697d);
+box-shadow:  23px -23px 29px #2a2e37,
+             -23px 23px 29px #8896b3;
+}
+.cel4:hover{
+    border-radius: 36px;
+    background: linear-gradient(315deg, #2b334a, #333d58);
+    box-shadow:  -50px -50px 0px #2e374f,
+                 50px 50px 0px #323b55;
+}
+.cel1{
+    border-radius: 36px;
+    background: linear-gradient(145deg, #272e43, #2e374f);
+    box-shadow:  18px 18px 24px #11141e,
+                 -18px -18px 24px #455276;
+}
+
+.cel4{
+    border-radius: 36px;
+background: linear-gradient(315deg, #272e43, #2e374f);
+box-shadow:  -27px -27px 54px #141722,
+             27px 27px 54px #424f72;
+}
+.tt{
+    background-color: #596275;
+    border-collapse: collapse;
+}
+.rt{
+    border-radius: 35px;
+    background: linear-gradient(145deg, #505869, #5f697d);
+    box-shadow:  8px 8px 16px #3f4653,
+                 -8px -8px 16px #737e97;
+}
+.lt{
+    border-radius: 35px;
+background: linear-gradient(225deg, #505869, #5f697d);
+box-shadow:  -8px 8px 16px #3f4653,
+             8px -8px 16px #737e97;
+}
+.im{
+    margin-left: 20px;
+}
+.mi{
+    margin-left: 10%;
+}

@@ -1,0 +1,44 @@
+.log{
+    margin-left: 10px;
+    
+}
+.title{
+    text-align: center;
+}
+h3{
+    color:antiquewhite;
+}
+*{
+    margin: auto;
+    
+}
+.navbar navbar-expand-lg bg-light{
+    background-color: #c6d4df;
+}
+.tb{
+    background-color: #171a21;
+}
+.nav-link:hover{
+    background-color: #607373f4 ;
+}
+
+.search_bar input[type="text"]{
+    border: 7px solid #666666;
+    padding: 5px 10px; 
+    outline: none;
+    transition: all 0.5s linear;
+    border-radius: 999px;
+}
+.re{
+    text-decoration: none;
+    color: aliceblue;
+}
+.search_bar{
+    margin-left: 580px;
+}
+.nav-link{
+    color: aliceblue;
+}
+.navbar-nav{
+    background-color: #171a21;
+}
