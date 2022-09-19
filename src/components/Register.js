@@ -1,10 +1,12 @@
 import React from "react";
 import "./Register.css";
+import Footer from './Footer'
 
 
 
 function Register() {
   return (
+    <div>
     <form>
       <div className="container">
         <h1>Register</h1>
@@ -57,6 +59,8 @@ function Register() {
         </div>
       </div>
     </form>
+
+    </div>
   );
 }
 

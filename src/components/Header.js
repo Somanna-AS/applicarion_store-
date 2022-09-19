@@ -30,7 +30,7 @@ function Header() {
           <a class="nav-link" href="/Register">Category</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/Login">Contact us</a>
+          <a class="nav-link" href="/Contact">Contact us</a>
         </li>
         <li class="nav-item dropdown">
           
